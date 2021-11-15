@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\bin\Debug\18.10zadashi.exe.config
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\bin\Debug\18.10zadashi.exe
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\bin\Debug\18.10zadashi.pdb
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\18.10zadashi.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\_18._10zadashi.Form1.resources
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\_18._10zadashi.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\18.10zadashi.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\18.10zadashi.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\18.10zadashi.exe
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\18.10zadashi.pdb
+C:\Users\Xiaomi\source\repos\18.10zadashi\18.10zadashi\obj\Debug\_18._10zadashi.Form2.resources
